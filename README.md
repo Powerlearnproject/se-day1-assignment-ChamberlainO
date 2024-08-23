@@ -21,6 +21,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall is a sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall. A scenario wil be building a financial software system for a bank where requirements are clearly defined and unlikely to change. One the other hand, Agile is a iterative and incremental approach focused on flexibility, collaboration, and responding to change. A scenario will be developing a new e-commerce platform where customer needs and market conditions may change rapidly.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -30,6 +31,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environments (IDEs) are software suites that provide comprehensive tools for writing, debugging, and testing code. Examples are Visual Studio, Eclipse, IntelliJ IDEA. While Version Control Systems (VCS) are Software tools for tracking changes to source code and coordinating work among team members. For example, Git and Subversion
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -52,8 +54,10 @@ Importance of Quality Control:Quality control measures such as code reviews, aut
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.  The importance of prompt engineering in interacting with AI models is that it helps making your questions clear and specific, so the AI understands exactly what you need.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague prompt: Tell me about Nigeria
 Improved prompt: What is the history of Nigeria.
